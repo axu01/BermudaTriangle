@@ -101,7 +101,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 37
+  controlID: 49
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,7 +203,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 38
+  controlID: 50
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,9 +323,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 566e0000
-      m_LastClickedID: 28246
-      m_ExpandedIDs: 1afbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 92f8ffff1afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -441,7 +441,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/pngs
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -449,16 +449,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/pngs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\ziyix\OneDrive\Desktop\GitHub\BermudaTriangle\DEMO
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 286f0000
-    m_LastClickedID: 28456
-    m_ExpandedIDs: 00000000286f000000ca9a3bffffff7f
+    m_SelectedIDs: bc700000
+    m_LastClickedID: 28860
+    m_ExpandedIDs: 00000000326f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -486,7 +486,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 270.66666}
     m_SelectedIDs: 08850000
     m_LastClickedID: 34056
-    m_ExpandedIDs: 00000000286f0000
+    m_ExpandedIDs: 00000000326f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -513,7 +513,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: b2bb00006a8900006e8900008e810000868600004e87000000000000e2740000cc8c0000e66e0000c6c90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1022,9 +1022,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.13815, y: -1.9462067, z: -11.675197}
+    m_Target: {x: -19.246555, y: -3.4713926, z: -11.276191}
     speed: 2
-    m_Value: {x: -3.13815, y: -1.9462067, z: -11.675197}
+    m_Value: {x: -19.246555, y: -3.4713926, z: -11.276191}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1074,9 +1074,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.578665
+    m_Target: 12.569093
     speed: 2
-    m_Value: 8.578665
+    m_Value: 12.569093
   m_Ortho:
     m_Target: 1
     speed: 2
