@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\birbfly.cs" />
     <Compile Include="Assets\FollowPlayer.cs" />
+    <Compile Include="Assets\AIChase.cs" />
     <Compile Include="Assets\reload.cs" />
     <Compile Include="Assets\loadnext.cs" />
     <Compile Include="Assets\Onclickload.cs" />
