@@ -8,7 +8,7 @@ public class loadnext : MonoBehaviour
     // Start is called before the first frame update
     void OnCollisionEnter2D(Collision2D col)
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("ThirdScene");
     }
 
     // Update is called once per frame
