@@ -367,12 +367,17 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/AIChase.cs"
 "Assets/birbfly.cs"
+"Assets/CanvasOpen.cs"
 "Assets/CountdownTimer.cs"
 "Assets/FollowPlayer.cs"
+"Assets/GameOver.cs"
+"Assets/loadbosschase.cs"
 "Assets/loadfourth.cs"
 "Assets/loadnext.cs"
 "Assets/Onclickload.cs"
 "Assets/reload.cs"
+"Assets/restart.cs"
+"Assets/topdownchase.cs"
 -langversion:9.0
 
 /deterministic

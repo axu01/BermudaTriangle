@@ -5,6 +5,7 @@ using UnityEngine;
 public class birbfly : MonoBehaviour
 {
     // Start is called before the first frame update
+    //public GameObject birb;
     public float movSpeed = 10.4f;
     float speedX, speedY;
     Rigidbody2D rb;

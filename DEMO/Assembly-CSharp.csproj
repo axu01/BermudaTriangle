@@ -64,10 +64,15 @@
     <Compile Include="Assets\FollowPlayer.cs" />
     <Compile Include="Assets\CountdownTimer.cs" />
     <Compile Include="Assets\AIChase.cs" />
+    <Compile Include="Assets\restart.cs" />
     <Compile Include="Assets\reload.cs" />
     <Compile Include="Assets\loadnext.cs" />
+    <Compile Include="Assets\CanvasOpen.cs" />
+    <Compile Include="Assets\topdownchase.cs" />
+    <Compile Include="Assets\GameOver.cs" />
     <Compile Include="Assets\loadfourth.cs" />
     <Compile Include="Assets\Onclickload.cs" />
+    <Compile Include="Assets\loadbosschase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FourthScene.unity
     guid: 24f2c61b31d2ab44f90a8ec698ebcee1
+  - enabled: 1
+    path: Assets/Scenes/bosschase.unity
+    guid: fdb9ebe0ff4fe4342b74661abcaad614
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: eed1d9c9364555b49ab9bfb42ccb7b1c
   m_configObjects: {}
