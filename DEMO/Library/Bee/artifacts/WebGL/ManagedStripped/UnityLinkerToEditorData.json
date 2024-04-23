@@ -37,6 +37,7 @@
             "name": "AudioBehaviour",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -50,6 +51,8 @@
           {
             "name": "AudioClip",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/SampleScene.unity",
               "Assets/Scenes/SecondScene.unity",
@@ -62,6 +65,7 @@
             "name": "AudioListener",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -81,6 +85,8 @@
           {
             "name": "AudioSource",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/SampleScene.unity",
               "Assets/Scenes/SecondScene.unity",
@@ -92,6 +98,8 @@
           {
             "name": "SampleClip",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/SampleScene.unity",
               "Assets/Scenes/SecondScene.unity",
@@ -121,6 +129,7 @@
             "name": "Camera",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -165,6 +174,7 @@
             "name": "EditorExtension",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -185,6 +195,7 @@
             "name": "GameObject",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -217,6 +228,7 @@
             "name": "LevelGameManager",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -249,6 +261,7 @@
             "name": "LightmapSettings",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -269,6 +282,7 @@
             "name": "Material",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -303,6 +317,7 @@
             "name": "MonoBehaviour",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -323,6 +338,7 @@
             "name": "MonoScript",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -337,6 +353,7 @@
             "name": "NamedObject",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -374,6 +391,8 @@
           {
             "name": "RectTransform",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -393,6 +412,7 @@
             "name": "RenderSettings",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -431,6 +451,7 @@
             "name": "Shader",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -463,6 +484,7 @@
             "name": "Sprite",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -483,6 +505,7 @@
             "name": "SpriteRenderer",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/SampleScene.unity",
               "Assets/Scenes/SecondScene.unity",
@@ -507,6 +530,7 @@
             "name": "Texture",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -521,6 +545,7 @@
             "name": "Texture2D",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -793,6 +818,7 @@
             "name": "BoxCollider2D",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/SecondScene.unity",
               "Assets/Scenes/ThirdScene.unity"
@@ -803,6 +829,7 @@
           {
             "name": "CapsuleCollider2D",
             "scenes": [
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity"
             ],
             "dependencyType": 0,
@@ -841,6 +868,7 @@
             "name": "Rigidbody2D",
             "scenes": [
               "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/SecondScene.unity",
               "Assets/Scenes/ThirdScene.unity"
@@ -1037,6 +1065,8 @@
           {
             "name": "Font",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -1084,6 +1114,8 @@
           {
             "name": "Canvas",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
@@ -1102,6 +1134,8 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
+              "Assets/Scenes/bosschase.unity",
+              "Assets/Scenes/forest chase.unity",
               "Assets/Scenes/FourthScene.unity",
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",

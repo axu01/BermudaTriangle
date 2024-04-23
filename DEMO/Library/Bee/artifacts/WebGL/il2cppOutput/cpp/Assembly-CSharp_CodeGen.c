@@ -29,9 +29,15 @@ extern void FollowPlayer_Update_m6CCD681461C8062489A435B45285AEE84F3B3DB6 (void)
 extern void FollowPlayer__ctor_mFEF642F6D296A2FBA30A01B637B6BD8DD2446114 (void);
 extern void GameOver_OnTriggerEnter2D_m8E672BC173FA6899835346B9E6C8B6D302200A2E (void);
 extern void GameOver__ctor_m2D4239F9C4BCE2EBFD1D1D6FAFEBAD05F65399B2 (void);
+extern void introcanvas_Start_m87359A6D3750503EF2DDA6D1CF49FFF60D760CED (void);
+extern void introcanvas_Update_m3FF37C05EAF99D2DCD3796B3A4898C0FCC15CC3D (void);
+extern void introcanvas__ctor_mC07008C73FA7FB5937A0D42A3877060F3A0D6A7B (void);
 extern void loadbosschase_birdfeed_mE79C277BC5F3B1D9710A106836882E592072970E (void);
 extern void loadbosschase_Update_m866CF439E53AAD1975E23FC57BEF7A9F15E0EF2C (void);
 extern void loadbosschase__ctor_m978B2259588F744098DB1B03EEAFBE564062FAB5 (void);
+extern void loadforest_OnCollisionEnter2D_mA8DB366015D674E60586982C5D75FA8B53687005 (void);
+extern void loadforest_Update_m5F128AB96392584B799CC5B44F227B573B8527EC (void);
+extern void loadforest__ctor_m03B30DD1D7E402C29ECD311A7B9918132827814D (void);
 extern void loadfourth_OnCollisionEnter2D_mECAB94A00E7AB8F179F38CAC1383660BB495B92A (void);
 extern void loadfourth_Update_m43839922012113FB976D01F14F7F41159F023CE7 (void);
 extern void loadfourth__ctor_m42C65EA1AD5783FB45F75CB0681D3C47296F5889 (void);
@@ -53,7 +59,7 @@ extern void topdownchase_OnTriggerEnter2D_mCAFDEA4CF6283C6FAD49A4AD6FB5744743E84
 extern void topdownchase__ctor_m3B08E7947EB2E4A97D7C742899069B1054D54D6D (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
-static Il2CppMethodPointer s_methodPointers[41] = 
+static Il2CppMethodPointer s_methodPointers[47] = 
 {
 	AIChase_Start_mA93CB32481B575E15D347D7129E0C7E020704B6D,
 	AIChase_Update_m2CD27B0F0D46BED6D2FCFC083648A38B634840CD,
@@ -72,9 +78,15 @@ static Il2CppMethodPointer s_methodPointers[41] =
 	FollowPlayer__ctor_mFEF642F6D296A2FBA30A01B637B6BD8DD2446114,
 	GameOver_OnTriggerEnter2D_m8E672BC173FA6899835346B9E6C8B6D302200A2E,
 	GameOver__ctor_m2D4239F9C4BCE2EBFD1D1D6FAFEBAD05F65399B2,
+	introcanvas_Start_m87359A6D3750503EF2DDA6D1CF49FFF60D760CED,
+	introcanvas_Update_m3FF37C05EAF99D2DCD3796B3A4898C0FCC15CC3D,
+	introcanvas__ctor_mC07008C73FA7FB5937A0D42A3877060F3A0D6A7B,
 	loadbosschase_birdfeed_mE79C277BC5F3B1D9710A106836882E592072970E,
 	loadbosschase_Update_m866CF439E53AAD1975E23FC57BEF7A9F15E0EF2C,
 	loadbosschase__ctor_m978B2259588F744098DB1B03EEAFBE564062FAB5,
+	loadforest_OnCollisionEnter2D_mA8DB366015D674E60586982C5D75FA8B53687005,
+	loadforest_Update_m5F128AB96392584B799CC5B44F227B573B8527EC,
+	loadforest__ctor_m03B30DD1D7E402C29ECD311A7B9918132827814D,
 	loadfourth_OnCollisionEnter2D_mECAB94A00E7AB8F179F38CAC1383660BB495B92A,
 	loadfourth_Update_m43839922012113FB976D01F14F7F41159F023CE7,
 	loadfourth__ctor_m42C65EA1AD5783FB45F75CB0681D3C47296F5889,
@@ -97,7 +109,7 @@ static Il2CppMethodPointer s_methodPointers[41] =
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 };
-static const int32_t s_InvokerIndices[41] = 
+static const int32_t s_InvokerIndices[47] = 
 {
 	6544,
 	6544,
@@ -117,6 +129,12 @@ static const int32_t s_InvokerIndices[41] =
 	5159,
 	6544,
 	6544,
+	6544,
+	6544,
+	6544,
+	6544,
+	6544,
+	5159,
 	6544,
 	6544,
 	5159,
@@ -145,7 +163,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	41,
+	47,
 	s_methodPointers,
 	0,
 	NULL,

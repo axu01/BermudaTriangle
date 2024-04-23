@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/bosschase.unity
     guid: fdb9ebe0ff4fe4342b74661abcaad614
   - enabled: 1
+    path: Assets/Scenes/forest chase.unity
+    guid: 52373b7f8af57194ebc95bc738966411
+  - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: eed1d9c9364555b49ab9bfb42ccb7b1c
   m_configObjects: {}
