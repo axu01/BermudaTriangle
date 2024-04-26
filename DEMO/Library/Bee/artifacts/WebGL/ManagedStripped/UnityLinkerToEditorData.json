@@ -397,7 +397,8 @@
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
               "Assets/Scenes/SampleScene.unity",
-              "Assets/Scenes/SecondScene.unity"
+              "Assets/Scenes/SecondScene.unity",
+              "Assets/Scenes/ThirdScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1071,7 +1072,8 @@
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
               "Assets/Scenes/SampleScene.unity",
-              "Assets/Scenes/SecondScene.unity"
+              "Assets/Scenes/SecondScene.unity",
+              "Assets/Scenes/ThirdScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1120,7 +1122,8 @@
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
               "Assets/Scenes/SampleScene.unity",
-              "Assets/Scenes/SecondScene.unity"
+              "Assets/Scenes/SecondScene.unity",
+              "Assets/Scenes/ThirdScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1140,7 +1143,8 @@
               "Assets/Scenes/GameOver.unity",
               "Assets/Scenes/intro scene.unity",
               "Assets/Scenes/SampleScene.unity",
-              "Assets/Scenes/SecondScene.unity"
+              "Assets/Scenes/SecondScene.unity",
+              "Assets/Scenes/ThirdScene.unity"
             ],
             "dependencyType": 0,
             "icon": null

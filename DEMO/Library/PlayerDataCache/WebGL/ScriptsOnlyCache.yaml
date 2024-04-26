@@ -272,9 +272,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10908}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 11486}
+      Script: {instanceID: 11488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -329,7 +329,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10394}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 11300}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -388,7 +388,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10394}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 11300}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -455,13 +455,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10394}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 10954}
     - Class: 114
-      Script: {instanceID: 11486}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 12728}
+      Script: {instanceID: 11488}
     - Class: 114
-      Script: {instanceID: 29072}
+      Script: {instanceID: 12730}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -508,16 +508,34 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 1778}
+    - Class: 114
+      Script: {instanceID: 1818}
+    - Class: 114
       Script: {instanceID: 3580}
     - Class: 114
       Script: {instanceID: 5042}
     - Class: 114
+      Script: {instanceID: 5544}
+    - Class: 114
       Script: {instanceID: 7696}
+    - Class: 114
+      Script: {instanceID: 8240}
+    - Class: 114
+      Script: {instanceID: 8422}
     - Class: 114
       Script: {instanceID: 8750}
     - Class: 114
       Script: {instanceID: 10292}
+    - Class: 114
+      Script: {instanceID: 10394}
+    - Class: 114
+      Script: {instanceID: 11300}
+    - Class: 114
+      Script: {instanceID: 11488}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -526,6 +544,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/bosschase.unity:
     - Class: 1
@@ -575,11 +599,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10394}
     - Class: 114
-      Script: {instanceID: 11058}
+      Script: {instanceID: 11060}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 11486}
+      Script: {instanceID: 11488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -646,9 +670,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10394}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 11486}
+      Script: {instanceID: 11488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -781,23 +805,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10818}
     - Class: 114
-      Script: {instanceID: 11102}
+      Script: {instanceID: 11104}
     - Class: 114
-      Script: {instanceID: 11228}
+      Script: {instanceID: 11230}
     - Class: 114
-      Script: {instanceID: 11298}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 11308}
+      Script: {instanceID: 11310}
     - Class: 114
-      Script: {instanceID: 11390}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 11500}
+      Script: {instanceID: 11502}
     - Class: 114
-      Script: {instanceID: 11638}
+      Script: {instanceID: 11640}
     - Class: 114
-      Script: {instanceID: 11886}
+      Script: {instanceID: 11888}
     - Class: 114
-      Script: {instanceID: 12642}
+      Script: {instanceID: 12644}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2161,6 +2185,12 @@ ScriptsOnlyBuild:
     className: loadbosschase
   - hash:
       serializedVersion: 2
+      Hash: 68af33335dd866dd422acb6e88802935
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: introcanvas
+  - hash:
+      serializedVersion: 2
       Hash: 33656f83bb0079184b2206a69690ec46
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
@@ -2399,12 +2429,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 68af33335dd866dd422acb6e88802935
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: introcanvas
   platform: 20
   scenePathNames:
   - Assets/Scenes/intro scene.unity
