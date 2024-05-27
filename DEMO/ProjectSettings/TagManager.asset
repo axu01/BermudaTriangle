@@ -12,7 +12,7 @@ TagManager:
   - heheh
   - Water
   - UI
-  - 
+  - bcgnd
   - 
   - 
   - 
@@ -53,4 +53,10 @@ TagManager:
     locked: 0
   - name: cat
     uniqueID: 1686774597
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 1853080013
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1578757541
     locked: 0

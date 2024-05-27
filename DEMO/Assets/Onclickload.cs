@@ -8,7 +8,7 @@ public class Onclickload : MonoBehaviour
     // Start is called before the first frame update
     public void clickyclick()
     {
-        SceneManager.LoadScene("SecondScene");
+        SceneManager.LoadScene("Character Selection");
     }
 
     // Update is called once per frame

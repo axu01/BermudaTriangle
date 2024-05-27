@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4002e0dafc9f9c94e91bb92342d2112d, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Oriole
+    characterSprite: {fileID: 21300000, guid: 3ada1a65182a95742b0e6d9ca540a503, type: 3}
+  - characterName: Bluejay
+    characterSprite: {fileID: 21300000, guid: f08a4744bafecf3439b08b9d08040487, type: 3}
+  - characterName: Red Robin XD
+    characterSprite: {fileID: 21300000, guid: 0c1401a11bce80948875f2be8d604295, type: 3}

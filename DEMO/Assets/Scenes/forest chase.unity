@@ -729,8 +729,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 158, y: -158}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 55, y: -190}
+  m_SizeDelta: {x: 423.9152, y: 46.3426}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &525104661
 MonoBehaviour:
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This is all for now :)
+  m_text: You fly off after escaping the fish..
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2807,6 +2807,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2078728596}
   - component: {fileID: 2078728597}
+  - component: {fileID: 2078728598}
   m_Layer: 0
   m_Name: booode (2)
   m_TagString: Untagged
@@ -2874,6 +2875,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4822693, y: 21.255352}
   m_EdgeRadius: 0
+--- !u!114 &2078728598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2078728595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3993505f1ee30f46b6a6b2472d510e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2096500427
 GameObject:
   m_ObjectHideFlags: 0
