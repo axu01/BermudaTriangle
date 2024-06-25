@@ -394,6 +394,7 @@
 "Assets/CountdownTimer.cs"
 "Assets/FollowPlayer.cs"
 "Assets/GameOver.cs"
+"Assets/IdleMovement.cs"
 "Assets/introcanvas.cs"
 "Assets/loadbosschase.cs"
 "Assets/loadeigth.cs"
@@ -404,6 +405,7 @@
 "Assets/Player.cs"
 "Assets/reload.cs"
 "Assets/restart.cs"
+"Assets/SceneTransition.cs"
 "Assets/topdownchase.cs"
 -langversion:9.0
 

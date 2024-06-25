@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: eed1d9c9364555b49ab9bfb42ccb7b1c
+  - enabled: 1
+    path: Assets/Scenes/Eigth Scene Transition.unity
+    guid: d797e06fb61f1f54f9bfd71f874354c4
   m_configObjects: {}

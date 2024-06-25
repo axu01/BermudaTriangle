@@ -74,6 +74,8 @@
     <Compile Include="Assets\CanvasOpen.cs" />
     <Compile Include="Assets\topdownchase.cs" />
     <Compile Include="Assets\Character.cs" />
+    <Compile Include="Assets\IdleMovement.cs" />
+    <Compile Include="Assets\SceneTransition.cs" />
     <Compile Include="Assets\CharacterManager.cs" />
     <Compile Include="Assets\GameOver.cs" />
     <Compile Include="Assets\loadfourth.cs" />
