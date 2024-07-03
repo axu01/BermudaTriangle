@@ -406,6 +406,7 @@
 "Assets/reload.cs"
 "Assets/restart.cs"
 "Assets/SceneTransition.cs"
+"Assets/TimeOver.cs"
 "Assets/topdownchase.cs"
 -langversion:9.0
 

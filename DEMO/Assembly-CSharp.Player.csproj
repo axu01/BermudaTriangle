@@ -65,6 +65,7 @@
     <Compile Include="Assets\FollowPlayer.cs" />
     <Compile Include="Assets\CountdownTimer.cs" />
     <Compile Include="Assets\loadeigth.cs" />
+    <Compile Include="Assets\TimeOver.cs" />
     <Compile Include="Assets\AIChase.cs" />
     <Compile Include="Assets\loadforest.cs" />
     <Compile Include="Assets\restart.cs" />
